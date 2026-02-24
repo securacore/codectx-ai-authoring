@@ -1,3 +1,7 @@
-# react@securacore
+# ai-authoring@securacore
 
-AI documentation for how AI can develop React apps.
+AI documentation for what baseline model (LLM) documentation should be directed at.
+
+```bash
+codectx add ai-authoring@securacore
+```
