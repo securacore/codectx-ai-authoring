@@ -1,6 +1,6 @@
 name: codectx-ai-authoring
 author: ""
-version: 0.0.3
+version: 0.0.4
 description: Documentation package for codectx-ai-authoring
 foundation:
     - id: ai-authoring
