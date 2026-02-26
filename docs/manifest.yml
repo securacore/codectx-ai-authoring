@@ -2,3 +2,7 @@ name: codectx-ai-authoring
 author: ""
 version: 0.0.3
 description: Documentation package for codectx-ai-authoring
+foundation:
+    - id: ai-authoring
+      path: foundation/ai-authoring.md
+      description: AI Authoring
